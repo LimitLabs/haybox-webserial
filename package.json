@@ -1,7 +1,7 @@
 {
     "name": "haybox-webserial-glyph",
     "description": "Implementation of HayBox firmware config protocol using Web Serial - built against Glyph fork of HayBox-proto",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
